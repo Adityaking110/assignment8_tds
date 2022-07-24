@@ -1,0 +1,1 @@
+print(int(input("Number1:"))*int(input("Number2:")))
